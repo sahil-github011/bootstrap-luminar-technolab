@@ -1,0 +1,53 @@
+span{
+    font-size: 14px;
+}
+#join-now{
+    position: relative;
+    background-image: url("https://www.luminartechnolab.com/static/media/pexels-kindel-media-7054785.47b27e7d.png");
+    width: 100%;
+    background-size: contain;
+    height: 460px;
+    background-repeat: no-repeat;
+}
+#join-now-header{
+    position: absolute;
+    top: 30px;
+}
+#join-now-header2{
+    position: absolute;
+    top: 150px;
+}
+#join-now-button{
+    position: absolute;
+    top: 300px;
+
+    left: 300px;
+}
+#join-now-button {
+	position: absolute;
+	top: 236px;
+	left: 605px;
+}
+.section-1{
+    margin-top: .4rem;
+padding-top: 0;
+padding-bottom: 4.5rem;
+height: 500px;
+max-width: 100%;
+/* background: rgb(104, 26, 26); */
+background: #deccff;
+}
+
+#view-more-body{
+     position: relative;
+}
+
+#view-more{
+    position: absolute;
+bottom: 30px;
+left: 100px;
+}
+
+
+
+  
